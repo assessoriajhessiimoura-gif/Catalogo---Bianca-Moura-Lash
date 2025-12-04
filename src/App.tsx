@@ -15,7 +15,7 @@ function App() {
   const procedures: Procedure[] = [
     { name: 'Volume Brasileiro', price: 'R$ 165,00', image: '/images/WhatsApp Image 2025-11-29 at 20.21.39.jpeg' },
     { name: 'Volume Fox', price: 'R$ 165,00', image: '/images/WhatsApp Image 2025-11-29 at 20.21.38.jpeg' },
-    { name: 'Mega Volume', price: 'R$ 180,00', image: '/images/WhatsApp Image 2025-11-29 at 20.21.39 (1).jpeg' },
+    { name: 'Volume Fox marrom', price: 'R$ 180,00', image: 'WhatsApp Image 2025-11-29 at 20.21.38 (1).jpeg' },
     { name: 'Volume europeu', price: 'R$ 165,00', image: '/images/WhatsApp Image 2025-11-29 at 20.21.38 (1).jpeg' },
     { name: 'Mega Volume', price: 'R$ 180,00', image: 'WhatsApp Image 2025-11-29 at 20.21.37.jpeg,
     { name: 'Mega Volume', price: 'R$ 180,00', image: 'Imagem do WhatsApp 2025-11-29 às 20:21:39 (1).jpeg
