@@ -45,7 +45,7 @@ function App() {
             <h1 className="text-2xl font-serif text-neutral-800">Bianca Moura</h1>
           </div>
           <a
-            href="https://instagram.com/biancamoura"
+            href="https://www.instagram.com/bianca.cilioss?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-neutral-600 hover:text-amber-600 transition-colors"
