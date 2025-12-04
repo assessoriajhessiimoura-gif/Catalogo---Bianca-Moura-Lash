@@ -190,7 +190,7 @@ function App() {
               <div className="relative">
                 <div className="absolute inset-0 bg-rose-400/20 rounded-full blur-3xl"></div>
                 <img
-                  src="/images/WhatsApp Image 2025-11-29 at 20.21.39 (1).jpeg"
+                  src="/images/WhatsApp Image 2025-09-13 at 18.55.54 (1).jpeg"
                   alt="Manutenção de cílios"
                   className="relative rounded-2xl shadow-2xl w-full max-w-md object-cover"
                 />
