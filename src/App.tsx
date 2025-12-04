@@ -15,10 +15,11 @@ function App() {
   const procedures: Procedure[] = [
     { name: 'Volume Brasileiro', price: 'R$ 165,00', image: '/images/WhatsApp Image 2025-11-29 at 20.21.39.jpeg' },
     { name: 'Volume Fox', price: 'R$ 165,00', image: '/images/WhatsApp Image 2025-11-29 at 20.21.38.jpeg' },
-    { name: 'Volume Fox Marrom', price: 'R$ 165,00', image: '/images/WhatsApp Image 2025-11-29 at 20.21.39 (1).jpeg' },
+    { name: 'Mega Volume', price: 'R$ 180,00', image: '/images/WhatsApp Image 2025-11-29 at 20.21.39 (1).jpeg' },
     { name: 'Volume Europeu', price: 'R$ 165,00', image: '/images/WhatsApp Image 2025-11-29 at 20.21.38 (1).jpeg' },
-    { name: 'Mega Volume', price: 'R$ 180,00', image: '/images/WhatsApp Image 2025-11-29 at 20.21.39.jpeg' },
-    { name: 'Mega Volume', price: 'R$ 180,00', image: '/images/WhatsApp Image 2025-11-29 at 20.21.38 (1).jpeg' },
+    { name: 'Volume Brasileiro', price: 'R$ 165,00', image: 'WhatsApp Image 2025-11-29 at 20.21.37.jpeg,
+    { name: 'Volume Fox Marrom', price: 'R$ 165,00', image: 'WhatsApp Image 2025-11-29 at 20.21.38 (1).jpeg
+,
   ];
 
   const handleWhatsAppClick = () => {
