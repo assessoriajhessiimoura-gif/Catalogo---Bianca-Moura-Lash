@@ -25,7 +25,7 @@ function App() {
     },
     { 
       name: 'Volume Fox marrom', 
-      price: 'R$ 180,00', 
+      price: 'R$ 165,00', 
       image: '/images/WhatsApp Image 2025-11-29 at 20.21.38 (1).jpeg' 
     },
     { 
